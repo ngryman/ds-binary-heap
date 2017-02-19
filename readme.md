@@ -19,6 +19,8 @@
 
 ## Big-O
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ngryman/ds-binary-heap.svg)](https://greenkeeper.io/)
+
         | Access | Search | Insertion  | Deletion
 ------- | ------ | ------ | ---------- | --------
 Average | `Θ(1)` | `Θ(n)` | `Θ(1)`     | `Θ(log n)`
