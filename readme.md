@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  A simply linked list data structure in JavaScript.
+  A binary heap data structure in JavaScript.
 </p>
 
 <p align="center">
@@ -19,11 +19,10 @@
 
 ## Big-O
 
-        | Access | Search | Insertion | Deletion
-
-\------- \| ------ \| ------ \| --------- \| --------
-Average | `Θ(n)` \| `Θ(n)` \| `Θ(1)`    \| `Θ(1)`
-Worst   | `O(n)` \| `O(n)` \| `O(1)`    \| `O(1)`
+        | Access | Search | Insertion  | Deletion
+------- | ------ | ------ | ---------- | --------
+Average | `Θ(1)` | `Θ(n)` | `Θ(1)`     | `Θ(log n)`
+Worst   | `O(1)` | `O(n)` | `O(log n)` | `O(log n)`
 
 ## Install
 
