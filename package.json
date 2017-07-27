@@ -33,7 +33,7 @@
   },
   "dependencies": [],
   "devDependencies": {
-    "documentation": "^4.0.0-beta.18",
+    "documentation": "^5.0.0",
     "meta-dev": "^0.4.2"
   },
   "eslintConfig": {
